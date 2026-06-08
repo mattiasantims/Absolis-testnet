@@ -128,6 +128,18 @@ export default function LandingPage() {
 
       {/* Hero */}
       <div style={{ padding: '48px 0 38px', textAlign: 'center' }}>
+        <img
+          src="/absolis-logo.png"
+          alt="Absolis"
+          style={{
+            width: 92,
+            height: 92,
+            objectFit: 'contain',
+            display: 'block',
+            margin: '0 auto 18px',
+          }}
+        />
+
         <div style={{
           display: 'inline-flex', alignItems: 'center', gap: 8,
           fontSize: 11, fontFamily: 'var(--mono)', color: 'var(--usdc)',
