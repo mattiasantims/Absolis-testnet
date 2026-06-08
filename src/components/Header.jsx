@@ -168,7 +168,18 @@ export default function Header({ balance }) {
               width: 26, height: 26, background: 'var(--usdc)', borderRadius: 6,
               display: 'flex', alignItems: 'center', justifyContent: 'center',
               fontSize: 13, fontWeight: 700, color: '#fff',
-            }}>A</div>
+            }}><div className="brand-mark" style={{ padding: 0, overflow: 'hidden' }}>
+  <img
+    src="/absolis-logo.png"
+    alt="Absolis"
+    style={{
+      width: 28,
+      height: 28,
+      objectFit: 'contain',
+      display: 'block'
+    }}
+  />
+</div>
             <span style={{ fontFamily: 'var(--display)', fontWeight: 700, fontSize: 14, color: 'var(--text)', letterSpacing: '-0.3px' }}>
               Absolis
             </span>
