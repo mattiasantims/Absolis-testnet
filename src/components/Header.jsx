@@ -165,21 +165,16 @@ export default function Header({ balance }) {
           {/* Logo */}
           <Link to="/" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 7, flexShrink: 0 }}>
             <div style={{
-              width: 26, height: 26, background: 'var(--usdc)', borderRadius: 6,
+              width: 28, height: 28, borderRadius: 7,
               display: 'flex', alignItems: 'center', justifyContent: 'center',
-              fontSize: 13, fontWeight: 700, color: '#fff',
-            }}><div className="brand-mark" style={{ padding: 0, overflow: 'hidden' }}>
-  <img
-    src="/absolis-logo.png"
-    alt="Absolis"
-    style={{
-      width: 28,
-      height: 28,
-      objectFit: 'contain',
-      display: 'block'
-    }}
-  />
-</div>
+              overflow: 'hidden', flexShrink: 0,
+            }}>
+              <img
+                src="/absolis-logo.png"
+                alt="Absolis"
+                style={{ width: 28, height: 28, objectFit: 'contain', display: 'block' }}
+              />
+            </div>
             <span style={{ fontFamily: 'var(--display)', fontWeight: 700, fontSize: 14, color: 'var(--text)', letterSpacing: '-0.3px' }}>
               Absolis
             </span>
