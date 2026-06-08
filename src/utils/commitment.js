@@ -1,7 +1,7 @@
 import { parseUnits } from 'viem'
 import { getWalletClient, getPublicClient } from './wallet.js'
 import { ARC_COMMITMENT_ADDRESS, USDC_ADDRESS, USDC_DECIMALS } from '../config.js'
-import ABI from '../abis/AbsolismentCommitment.json'
+import ABI from '../abis/ArcPaymentCommitment.json'
 import ERC20 from '../abis/ERC20.json'
 function client() { return getPublicClient() }
 

@@ -103,7 +103,7 @@ export default function CommitmentDashboardPage({ account }) {
   if (!configured) return (
     <div className="card fade-up" style={{ padding: 32, textAlign: 'center' }}>
       <p style={{ color: 'var(--yellow)' }}>Commitment contract not yet deployed.</p>
-      <p style={{ fontSize: 13, color: 'var(--text3)', marginTop: 8 }}>Deploy AbsolismentCommitment and update config.js.</p>
+      <p style={{ fontSize: 13, color: 'var(--text3)', marginTop: 8 }}>Deploy ArcPaymentCommitment and update config.js.</p>
     </div>
   )
 
