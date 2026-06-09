@@ -247,4 +247,5 @@ This project is not affiliated with, sponsored by, endorsed by, or connected to 
 
 The project name Absolis is used as a working title for this testnet prototype. Any future commercial or mainnet initiative would require separate branding, security, legal, operational and compliance assessment.
 
+A tribute to the silent guardian.
 Absolis was developed by Mattia Santi as a personal testnet MVP to explore how stablecoins, non-custodial smart contracts and verifiable payment records can support real-world merchant payment flows.
