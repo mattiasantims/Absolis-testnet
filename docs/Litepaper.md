@@ -248,7 +248,6 @@ A production-grade path would require:
 
 The current MVP is therefore best understood as a working prototype and product exploration, not a launch-ready payment processor.
 
----
 
 
 ---
