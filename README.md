@@ -237,6 +237,14 @@ The project is independent, experimental and not affiliated with any employer, r
 
 ## Disclaimer
 
-Absolis is a testnet MVP and technical/product exploration only. It is not a production payment service, regulated financial service, bank, custodial wallet, payroll processor, lending product, BNPL product, KYC provider or compliance verification tool.
+This document represents a personal, independent and technical exploration of a testnet MVP built for research, learning and product-discovery purposes.
 
-Nothing in this repository should be interpreted as legal, financial, tax, investment or regulatory advice. Testnet tokens have no real economic value. Any potential mainnet or production path would require separate technical, security, legal, compliance and operational assessment.
+Absolis is not a production payment service, bank, payment institution, custodial wallet, payroll processor, lending product, BNPL product, tax document provider or compliance verification layer.
+
+All flows described are testnet-only and use testnet tokens with no real economic value. Nothing in this document should be interpreted as legal, financial, investment, regulatory or tax advice.
+
+This project is not affiliated with, sponsored by, endorsed by, or connected to Wirex, Arc, Circle, any employer of the author, or any regulated financial institution.
+
+The project name Absolis is used as a working title for this testnet prototype. Any future commercial or mainnet initiative would require separate branding, security, legal, operational and compliance assessment.
+
+Absolis was developed by Mattia Santi as a personal testnet MVP to explore how stablecoins, non-custodial smart contracts and verifiable payment records can support real-world merchant payment flows.
