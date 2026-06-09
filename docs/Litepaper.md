@@ -248,8 +248,6 @@ A production-grade path would require:
 
 The current MVP is therefore best understood as a working prototype and product exploration, not a launch-ready payment processor.
 
-
-
 ---
 
 ## Author and project status
@@ -259,6 +257,9 @@ Absolis is a personal testnet MVP designed and developed by **Mattia Santi** as 
 The project reflects a builder/product experiment around non-custodial checkout, merchant payouts, on-chain payment proof and off-chain reconciliation records. It does not represent the views, strategy or official position of any employer, affiliated entity, regulated financial institution or blockchain foundation.
 
 Absolis is not a white paper for a token issuance, investment product or regulated financial service. It is a testnet prototype and should be read as a technical and product exploration.
+
+
+---
 
 ## 11. Conclusion
 
